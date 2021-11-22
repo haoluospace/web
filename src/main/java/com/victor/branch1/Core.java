@@ -10,5 +10,10 @@ public class Core {
         System.out.println("macbook air");
         System.out.println("macbook air");
         System.out.println("macbook 12");
+        System.out.println("hot fix");
+        System.out.println("hot fix");
+        System.out.println("hot fix");
+        System.out.println("hot fix");
+        System.out.println("hot fix");
     }
 }
