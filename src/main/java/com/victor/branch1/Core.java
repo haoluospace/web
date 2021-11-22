@@ -8,5 +8,7 @@ public class Core {
         System.out.println("macbook pro");
         System.out.println("macbook pro");
         System.out.println("macbook air");
+        System.out.println("macbook air");
+        System.out.println("macbook 12");
     }
 }
