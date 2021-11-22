@@ -6,5 +6,7 @@ public class Core {
         System.out.println("macbook pro");
         System.out.println("macbook pro");
         System.out.println("macbook pro");
+        System.out.println("macbook pro");
+        System.out.println("macbook air");
     }
 }
